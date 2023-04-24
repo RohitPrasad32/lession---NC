@@ -114,7 +114,7 @@ hr {
 
 .section h1 {
     text-align: center;
-    padding: 2rem;
+    padding: 0rem;
 }
 
 .ow{
@@ -133,8 +133,22 @@ hr {
     color: white;
 }
 
+.footer .footer-header{
+    font-weight: bold;
+    font-size: large;
+}
+
 /* below internal code overriden by Tanay Pratap */
 
 .footer ul {
 padding-inline-start: 0px;
+}
+
+/* Extra */
+.shifting{
+    text-align: right;
+}
+
+.mid{
+    padding: 5rem;
 }
